@@ -1,0 +1,3 @@
+[submodule "R/R_Statistics"]
+	path = R/R_Statistics
+	url = https://github.com/dofany/Python_Study.git
